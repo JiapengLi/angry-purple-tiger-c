@@ -8,6 +8,10 @@ Angry Purple Tiger generates animal-based hash diegests meant to be memorable an
 
 Note that this function has not enough entropy to safely assume that generated names are unique with large certainty. Names are just a convenience for users.
 
+## Acknowledge
+
+- MD5 library: https://openwall.info/wiki/people/solar/software/public-domain-source-code/md5
+
 ## Other languages
 
 - Go: https://github.com/henet/angry_purple_tiger
